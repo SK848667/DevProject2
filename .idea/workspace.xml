@@ -1,67 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd3c4830-cb1e-4226-9a8b-bfd3c6c15505" name="Default Changelist" comment="" />
+    <list default="true" id="bd3c4830-cb1e-4226-9a8b-bfd3c6c15505" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../API/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/testbase/PageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiCommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/apiTestingFinalSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/apiTestingFinalStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/api/apiTestingFinalSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/runners/apiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/runners/apiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/java/com/hrms/utils/apiConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/src/test/resources/features/apiWorkFlow.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../API/src/test/resources/features/apiWorkFlow.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/FailedTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/FailedTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/cucumber-default-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/cucumber-default-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/api/apiTestingFinalStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/runners/apiRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/runners/apiRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/apiConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/com/hrms/utils/apiConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API/target/test-classes/features/apiWorkFlow.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../API/target/test-classes/features/apiWorkFlow.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JenkinsDevProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JenkinsDevProject/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pR5GaKGmxs4WZ8azkDFpwjy5SG" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -75,6 +70,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bd3c4830-cb1e-4226-9a8b-bfd3c6c15505" name="Default Changelist" comment="" />
@@ -84,5 +80,16 @@
       <updated>1615132968817</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
